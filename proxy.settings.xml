@@ -1,0 +1,7 @@
+<application>
+  <component name="HttpConfigurable">
+    <option name="PROXY_HOST" value="127.0.0.1" />
+    <option name="PROXY_PORT" value="1080" />
+    <option name="PROXY_EXCEPTIONS" value="127.0.0.1 ::1,localhost, *.csdn.net, *.github.com, http://192.168.5.213, http://192.168.* *.linesh.tw, *.baidu.com, http://192.168.21.162, *.oschina.net, *.sina.com.cn" />
+  </component>
+</application>
