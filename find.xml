@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'AotainIsmsV4'" />
-    <option name="defaultScopeName" value="Project 'AotainIsmsV4'" />
-    <option name="SEARCH_SCOPE" value="Project 'AotainIsmsV4'" />
+    <option name="customScope" value="Module 'AotainIsmsV4'" />
+    <option name="defaultScopeName" value="Module 'AotainIsmsV4'" />
+    <option name="SEARCH_SCOPE" value="Module 'AotainIsmsV4'" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
       <mask>*。*</mask>
