@@ -27,11 +27,11 @@
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
+      <mask>*</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
-      <mask>*</mask>
       <mask>*.</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
