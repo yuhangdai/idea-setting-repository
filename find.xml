@@ -14,7 +14,6 @@
       <mask>preHou</mask>
       <mask>preHouse</mask>
       <mask>preHous</mask>
-      <mask>*.jsp</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
@@ -31,6 +30,7 @@
       <mask>*.技</mask>
       <mask>*.</mask>
       <mask>*.jav</mask>
+      <mask>*.jsp</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
