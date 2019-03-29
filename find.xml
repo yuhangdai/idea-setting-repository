@@ -7,12 +7,8 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.技术</mask>
       <mask>*.技</mask>
       <mask>*。</mask>
-      <mask>*.jav</mask>
       <mask>*C.java</mask>
       <mask>*Co.java</mask>
       <mask>*Con.java</mask>
@@ -31,11 +27,15 @@
       <mask>*Co</mask>
       <mask>*C</mask>
       <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.jsp</mask>
       <mask>*.js</mask>
-      <mask>*.j</mask>
+      <mask>*.jav</mask>
       <mask>*.ja</mask>
+      <mask>*.j</mask>
+      <mask>*.xml</mask>
+      <mask>*.xm</mask>
+      <mask>*.x</mask>
+      <mask>*.</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
