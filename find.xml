@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.*" />
     <recentFileMasks>
       <mask>*Controll.java</mask>
       <mask>*Controlle.java</mask>
@@ -18,23 +18,23 @@
       <mask>*</mask>
       <mask>*.jsp</mask>
       <mask>*.xm</mask>
-      <mask>*.*</mask>
       <mask>*.xml</mask>
       <mask>*.x</mask>
       <mask>*.jaav</mask>
       <mask>*.jaa</mask>
       <mask>*.htmkl</mask>
       <mask>*.htmk</mask>
+      <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*.js</mask>
+      <mask>*.j</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
       <mask>*.</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
-      <mask>*.jav</mask>
-      <mask>*.java</mask>
+      <mask>*.*</mask>
     </recentFileMasks>
   </component>
 </application>
