@@ -12,7 +12,6 @@
       <mask>*Con</mask>
       <mask>*Co</mask>
       <mask>*C</mask>
-      <mask>*</mask>
       <mask>*.jsp</mask>
       <mask>*.xm</mask>
       <mask>*.xml</mask>
@@ -25,14 +24,15 @@
       <mask>*.cs</mask>
       <mask>*.c</mask>
       <mask>*.*</mask>
+      <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
+      <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.java</mask>
-      <mask>*.jav</mask>
-      <mask>*.ja</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
     </recentFileMasks>
