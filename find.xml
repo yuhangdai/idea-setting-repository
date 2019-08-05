@@ -5,35 +5,35 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.java" />
     <recentFileMasks>
-      <mask>*。*</mask>
-      <mask>**</mask>
-      <mask>*.*</mask>
-      <mask>*js</mask>
-      <mask>*.o</mask>
-      <mask>*.pre</mask>
-      <mask>*.pr</mask>
-      <mask>*.p</mask>
-      <mask>p</mask>
-      <mask>pre</mask>
-      <mask>preH</mask>
-      <mask>preHo</mask>
-      <mask>preHou</mask>
-      <mask>preHouse</mask>
-      <mask>preHous</mask>
-      <mask>*</mask>
+      <mask>*Control</mask>
+      <mask>*Contro</mask>
+      <mask>*Cont</mask>
+      <mask>*Con</mask>
+      <mask>*Co</mask>
+      <mask>*C</mask>
       <mask>*.jsp</mask>
+      <mask>*.xm</mask>
+      <mask>*.xml</mask>
+      <mask>*.x</mask>
+      <mask>*.jaav</mask>
+      <mask>*.jaa</mask>
+      <mask>*.htmkl</mask>
+      <mask>*.htmk</mask>
+      <mask>*</mask>
+      <mask>*.s</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
+      <mask>*.css</mask>
+      <mask>*.cs</mask>
+      <mask>*.c</mask>
       <mask>*.js</mask>
-      <mask>*.xml</mask>
-      <mask>*.xm</mask>
-      <mask>*.x</mask>
-      <mask>*.</mask>
-      <mask>*.j</mask>
-      <mask>*.ja</mask>
       <mask>*.jav</mask>
+      <mask>*.j</mask>
+      <mask>*.*</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
       <mask>*.java</mask>
     </recentFileMasks>
   </component>
