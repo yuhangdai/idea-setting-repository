@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="logback配置文件详解" type="PLAIN_TEXT" />
+      <mapping pattern="抽象类和接口" type="PLAIN_TEXT" />
       <mapping ext="aa" type="PLAIN_TEXT" />
       <mapping pattern="spring-base-ud1exec" type="XML" />
     </extensionMap>
