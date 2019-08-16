@@ -3,11 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.js" />
     <recentFileMasks>
-      <mask>*Control</mask>
-      <mask>*Contro</mask>
-      <mask>*Cont</mask>
       <mask>*Con</mask>
       <mask>*Co</mask>
       <mask>*C</mask>
@@ -19,7 +16,6 @@
       <mask>*.jaa</mask>
       <mask>*.htmkl</mask>
       <mask>*.htmk</mask>
-      <mask>*</mask>
       <mask>*.s</mask>
       <mask>*.html</mask>
       <mask>*.htm</mask>
@@ -28,13 +24,17 @@
       <mask>*.css</mask>
       <mask>*.cs</mask>
       <mask>*.c</mask>
-      <mask>*.js</mask>
-      <mask>*.jav</mask>
-      <mask>*.j</mask>
       <mask>*.*</mask>
-      <mask>*.</mask>
-      <mask>*.ja</mask>
       <mask>*.java</mask>
+      <mask>*.jav</mask>
+      <mask>*.ja</mask>
+      <mask>*。js</mask>
+      <mask>*。j</mask>
+      <mask>*。</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
     </recentFileMasks>
   </component>
 </application>
