@@ -2,15 +2,11 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="localCaseSensitive" value="true" />
+    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.xml" />
     <recentFileMasks>
-      <mask>*Con</mask>
-      <mask>*Co</mask>
-      <mask>*C</mask>
-      <mask>*.jsp</mask>
-      <mask>*.jaav</mask>
-      <mask>*.jaa</mask>
       <mask>*.htmkl</mask>
       <mask>*.htmk</mask>
       <mask>*.s</mask>
@@ -25,8 +21,6 @@
       <mask>*。js</mask>
       <mask>*。j</mask>
       <mask>*。</mask>
-      <mask>*</mask>
-      <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
       <mask>*.</mask>
@@ -35,6 +29,14 @@
       <mask>*.ja</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*</mask>
+      <mask>xml</mask>
+      <mask>xm</mask>
+      <mask>x</mask>
+      <mask>.</mask>
+      <mask>.x</mask>
+      <mask>.xml</mask>
+      <mask>*.xml</mask>
     </recentFileMasks>
   </component>
 </application>
