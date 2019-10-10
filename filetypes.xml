@@ -1,11 +1,11 @@
 <application>
   <component name="FileTypeManager" version="17">
-    <ignoreFiles list="*.hprof;*.iml;*.md;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.idea;.project;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <ignoreFiles list="*.hprof;*.iml;*.md;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.idea;.project;.svn;CVS;__pycache__;_svn;mvnw;mvnw.cmd;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern="mysql索引.txt" type="PLAIN_TEXT" />
-      <mapping pattern="logback配置文件详解" type="PLAIN_TEXT" />
       <mapping pattern="抽象类和接口" type="PLAIN_TEXT" />
+      <mapping pattern="logback配置文件详解" type="PLAIN_TEXT" />
+      <mapping pattern="mysql索引.txt" type="PLAIN_TEXT" />
       <mapping ext="aa" type="PLAIN_TEXT" />
       <mapping pattern="spring-base-ud1exec" type="XML" />
     </extensionMap>
