@@ -28,10 +28,10 @@
       <mask>*.htm</mask>
       <mask>*.ht</mask>
       <mask>*.h</mask>
-      <mask>*.jav</mask>
-      <mask>*.js</mask>
       <mask>*.*</mask>
       <mask>*.</mask>
+      <mask>*.jav</mask>
+      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
