@@ -5,14 +5,8 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.wxml" />
     <recentFileMasks>
-      <mask>xml</mask>
-      <mask>xm</mask>
-      <mask>x</mask>
-      <mask>.</mask>
-      <mask>.x</mask>
-      <mask>.xml</mask>
       <mask>*.xml</mask>
       <mask>*.xm</mask>
       <mask>*.x</mask>
@@ -34,9 +28,15 @@
       <mask>*.java</mask>
       <mask>*.jav</mask>
       <mask>*.ja</mask>
+      <mask>*.js</mask>
       <mask>*.j</mask>
       <mask>*.</mask>
-      <mask>*.js</mask>
+      <mask>*.wxxml</mask>
+      <mask>*.wxxm</mask>
+      <mask>*.wxx</mask>
+      <mask>*.w</mask>
+      <mask>*.wx</mask>
+      <mask>*.wxml</mask>
     </recentFileMasks>
   </component>
 </application>
