@@ -5,9 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.js" />
+    <option name="FILE_MASK" value="*.jsp" />
     <recentFileMasks>
-      <mask>*。h</mask>
       <mask>*。ht</mask>
       <mask>*。html</mask>
       <mask>*html</mask>
@@ -34,9 +33,10 @@
       <mask>*.</mask>
       <mask>*.ja</mask>
       <mask>*.java</mask>
-      <mask>*.jsp</mask>
       <mask>*.j</mask>
       <mask>*.js</mask>
+      <mask>*.js</mask>
+      <mask>*.jsp</mask>
     </recentFileMasks>
   </component>
 </application>
