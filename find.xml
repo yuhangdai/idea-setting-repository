@@ -12,8 +12,8 @@
     <mask>*.a</mask>
     <mask>*.xml</mask>
     <mask>*.*</mask>
-    <mask>*.java</mask>
     <mask>*.js</mask>
+    <mask>*.java</mask>
     <mask>*.jsp</mask>
   </component>
 </application>
