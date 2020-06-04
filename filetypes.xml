@@ -3,10 +3,10 @@
     <ignoreFiles list="*.hprof;*.iml;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.classpath;.externalToolBuilders;.git;.hg;.idea;.project;.settings;.svn;CVS;__pycache__;_svn;azkaban;mvnw;mvnw.cmd;out;target;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping ext="wxml" type="HTML" />
-      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="抽象类和接口" type="PLAIN_TEXT" />
-      <mapping pattern="mysql索引.txt" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="logback配置文件详解" type="PLAIN_TEXT" />
+      <mapping pattern="mysql索引.txt" type="PLAIN_TEXT" />
       <mapping ext="aa" type="PLAIN_TEXT" />
       <mapping ext="wxss" type="PLAIN_TEXT" />
       <mapping ext="wxs" type="PLAIN_TEXT" />
