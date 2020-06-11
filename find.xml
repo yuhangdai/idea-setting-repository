@@ -6,11 +6,12 @@
     <option name="FILE_MASK" value="*.java" />
     <mask>*.css</mask>
     <mask>*.properties</mask>
-    <mask>*.*</mask>
-    <mask>*.js</mask>
     <mask>*.html</mask>
-    <mask>*.xml</mask>
+    <mask>*.a</mask>
+    <mask>*.js</mask>
     <mask>*.jsp</mask>
+    <mask>*.*</mask>
+    <mask>*.xml</mask>
     <mask>*.java</mask>
   </component>
 </application>
