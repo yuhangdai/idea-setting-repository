@@ -7,7 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Project Files" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.*" />
     <mask>*.properties</mask>
     <mask>*.html</mask>
     <mask>*.a</mask>
@@ -15,7 +15,7 @@
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.js</mask>
-    <mask>*.*</mask>
     <mask>*.java</mask>
+    <mask>*.*</mask>
   </component>
 </application>
