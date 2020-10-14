@@ -9,11 +9,11 @@
     <mask>*.properties</mask>
     <mask>*.a</mask>
     <mask>*.css</mask>
-    <mask>*.js</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.jsp</mask>
+    <mask>*.js</mask>
     <mask>*.*</mask>
   </component>
 </application>
