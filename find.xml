@@ -11,9 +11,9 @@
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
-    <mask>*.jsp</mask>
     <mask>*.js</mask>
     <mask>*.*</mask>
+    <mask>*.jsp</mask>
     <mask>*.java</mask>
   </component>
 </application>
