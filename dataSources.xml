@@ -1,16 +1,16 @@
 <application>
   <component name="dataSourceStorage" format="xml" multifile-model="true">
-    <data-source source="LOCAL" name="cu@192.168.50.167" uuid="fc62146a-9298-4a96-ac7e-077944cf7d4d">
+    <data-source source="LOCAL" name="192.168.50.167@cu" uuid="fc62146a-9298-4a96-ac7e-077944cf7d4d">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://192.168.50.167:30002/cu?useUnicode=true&amp;characterEncoding=utf-8&amp;allowMultiQueries=true&amp;zeroDateTimeBehavior=convertToNull</jdbc-url>
+      <jdbc-url>jdbc:mysql://192.168.50.167:30002/cu?useUnicode=true&amp;characterEncoding=utf-8&amp;allowMultiQueries=true&amp;zeroDateTimeBehavior=convertToNull&amp;useTimezone=true&amp;serverTimezone=GMT%2B8</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="cu_test@192.168.50.159" uuid="a94c1c54-6d47-418f-84a5-c7a6fa413271">
+    <data-source source="LOCAL" name="192.168.50.159@cu_test" uuid="a94c1c54-6d47-418f-84a5-c7a6fa413271">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://192.168.50.159:3306/cu_test?useUnicode=true&amp;characterEncoding=utf-8&amp;allowMultiQueries=true&amp;zeroDateTimeBehavior=convertToNull</jdbc-url>
+      <jdbc-url>jdbc:mysql://192.168.50.159:3306/cu_test?useUnicode=true&amp;characterEncoding=utf-8&amp;allowMultiQueries=true&amp;zeroDateTimeBehavior=convertToNull&amp;useTimezone=true&amp;serverTimezone=GMT%2B8</jdbc-url>
     </data-source>
   </component>
 </application>
