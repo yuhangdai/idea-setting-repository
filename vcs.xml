@@ -38,11 +38,22 @@
           <option name="url" value="https://github.com/yuhangdai/interview.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/yuhangdai/tiny-spring" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="E:\gitData" />
   </component>
   <component name="Vcs.Log.App.Settings">
-    <option name="MIGRATED" value="true" />
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="1" />
+        <option value="2" />
+        <option value="3" />
+      </list>
+    </option>
   </component>
 </application>
