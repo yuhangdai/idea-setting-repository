@@ -10,10 +10,10 @@
     <mask>*.a</mask>
     <mask>*.html</mask>
     <mask>*.css</mask>
-    <mask>*.xml</mask>
     <mask>*.*</mask>
     <mask>*.js</mask>
     <mask>*.jsp</mask>
+    <mask>*.xml</mask>
     <mask>*.java</mask>
   </component>
 </application>
