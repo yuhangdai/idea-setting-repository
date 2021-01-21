@@ -12,5 +12,11 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://192.168.50.159:3306/cu_test?useUnicode=true&amp;characterEncoding=utf-8&amp;allowMultiQueries=true&amp;zeroDateTimeBehavior=convertToNull&amp;useTimezone=true&amp;serverTimezone=GMT%2B8</jdbc-url>
     </data-source>
+    <data-source source="LOCAL" name="cu_v3@192.168.50.167" uuid="9cb36ab9-19e3-40d1-99f8-a73e732a911b">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://192.168.50.167:30002/cu_v3?useUnicode=true&amp;characterEncoding=utf-8&amp;allowMultiQueries=true&amp;zeroDateTimeBehavior=convertToNull</jdbc-url>
+    </data-source>
   </component>
 </application>
