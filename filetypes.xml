@@ -7,11 +7,11 @@
       <mapping ext="wxml" type="HTML" />
       <mapping ext="mkd" type="Markdown" />
       <mapping pattern="抽象类和接口" type="PLAIN_TEXT" />
-      <mapping pattern="redis.md" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
       <mapping pattern="mysql索引.txt" type="PLAIN_TEXT" />
-      <mapping pattern="java对象创建流程.md" type="PLAIN_TEXT" />
       <mapping pattern="logback配置文件详解" type="PLAIN_TEXT" />
+      <mapping pattern="redis.md" type="PLAIN_TEXT" />
+      <mapping pattern="java对象创建流程.md" type="PLAIN_TEXT" />
       <mapping ext="aa" type="PLAIN_TEXT" />
       <mapping ext="wxss" type="PLAIN_TEXT" />
       <mapping ext="wxs" type="PLAIN_TEXT" />
