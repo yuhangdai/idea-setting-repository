@@ -7,7 +7,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.xsd" />
     <mask>*.properties</mask>
     <mask>*.a</mask>
     <mask>*.html</mask>
@@ -15,9 +15,9 @@
     <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.jsp</mask>
-    <mask>*.xsd</mask>
     <mask>*.sh</mask>
     <mask>*.*</mask>
     <mask>*.java</mask>
+    <mask>*.xsd</mask>
   </component>
 </application>
