@@ -10,10 +10,10 @@
     <mask>*.xsd</mask>
     <mask>*.js</mask>
     <mask>*.sh</mask>
-    <mask>*.java</mask>
     <mask>*.properties</mask>
-    <mask>*.jsp</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
+    <mask>*.jsp</mask>
     <mask>*.*</mask>
   </component>
 </application>
