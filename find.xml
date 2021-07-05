@@ -12,8 +12,8 @@
     <mask>*.sh</mask>
     <mask>*.properties</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*.*</mask>
+    <mask>*.java</mask>
     <mask>*.jsp</mask>
   </component>
 </application>
