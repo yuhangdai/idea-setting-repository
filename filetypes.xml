@@ -15,6 +15,7 @@
       <mapping ext="aa" type="PLAIN_TEXT" />
       <mapping ext="wxss" type="PLAIN_TEXT" />
       <mapping ext="wxs" type="PLAIN_TEXT" />
+      <mapping ext="job" type="PLAIN_TEXT" />
       <mapping pattern="spring-base-ud1exec" type="XML" />
     </extensionMap>
   </component>
