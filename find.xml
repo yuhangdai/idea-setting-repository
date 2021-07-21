@@ -5,17 +5,17 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.a</mask>
     <mask>*.html</mask>
     <mask>*.css</mask>
     <mask>*.xsd</mask>
     <mask>*.properties</mask>
-    <mask>*.xml</mask>
     <mask>*.js</mask>
     <mask>*.jsp</mask>
-    <mask>*.*</mask>
     <mask>*.sh</mask>
     <mask>*.java</mask>
+    <mask>*.*</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
