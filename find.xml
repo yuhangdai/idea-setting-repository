@@ -3,9 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.xsd" />
     <mask>*.a</mask>
-    <mask>*.xsd</mask>
     <mask>*.sh</mask>
     <mask>*.js</mask>
     <mask>*.</mask>
@@ -16,5 +15,6 @@
     <mask>*.java</mask>
     <mask>*.properties</mask>
     <mask>*.*</mask>
+    <mask>*.xsd</mask>
   </component>
 </application>
