@@ -13,9 +13,9 @@
     <mask>*.js</mask>
     <mask>*.properties</mask>
     <mask>*.sql</mask>
-    <mask>*.xml</mask>
     <mask>*.jsp</mask>
     <mask>*.*</mask>
+    <mask>*.xml</mask>
     <mask>*.java</mask>
   </component>
 </application>
