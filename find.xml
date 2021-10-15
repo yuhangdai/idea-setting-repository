@@ -14,8 +14,8 @@
     <mask>*.sql</mask>
     <mask>*.xml</mask>
     <mask>*.*</mask>
-    <mask>*.jsp</mask>
     <mask>*.js</mask>
+    <mask>*.jsp</mask>
     <mask>*.java</mask>
   </component>
 </application>
