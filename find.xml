@@ -7,38 +7,13 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
-    <recentFileMasks>
-      <mask>*html</mask>
-      <mask>*.css</mask>
-      <mask>*.cs</mask>
-      <mask>*.c</mask>
-      <mask>*.html</mask>
-      <mask>*.htm</mask>
-      <mask>*.ht</mask>
-      <mask>*.h</mask>
-      <mask>*.wxxml</mask>
-      <mask>*.wxxm</mask>
-      <mask>*.wxx</mask>
-      <mask>*.wxml</mask>
-      <mask>*.wxm</mask>
-      <mask>*.wx</mask>
-      <mask>*.w</mask>
-      <mask>*.jaca</mask>
-      <mask>*.jac</mask>
-      <mask>*</mask>
-      <mask>*.jave</mask>
-      <mask>*.js</mask>
-      <mask>*.jav</mask>
-      <mask>*.*</mask>
-      <mask>*.ja</mask>
-      <mask>*.java</mask>
-      <mask>*.jsp</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.</mask>
-      <mask>*.x</mask>
-      <mask>*.xml</mask>
-    </recentFileMasks>
+    <option name="FILE_MASK" value="*.*" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
+    <mask>*.*</mask>
   </component>
 </application>
